@@ -2,7 +2,6 @@
 - 🎓 Estudante: ADS
 - 👩🏻‍💻 Programação/Data Science
 - 👩🏻‍ Pronome: Ela/Dela
-🏻👩🏻‍💻💻
 
 <div>
   <a href="https://github.com/martinspdenise">
