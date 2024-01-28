@@ -1,5 +1,5 @@
 # Olá, meu nome é Denise Martins!
-- 🎓 Estudante: ADS
+- 🎓 Formada em Analise e Desenvolvimento em Sistemas
 - 👩🏻‍💻 Programação/Data Science
 - 👩🏻‍ Pronome: Ela/Dela
 
